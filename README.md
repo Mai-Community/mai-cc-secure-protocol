@@ -1,5 +1,5 @@
 # Mai CC Secure Protocol
-Mai CC Secure Protokol, Türkiye veya yabancı banka kurumlarının Kredi Kartı bilgilerini ileri seviye koruyacak, merkeziyetsiz bir güvenlik protokolüdür.
+Mai CC Secure Protokol, Türkiye veya yabancı banka kurumlarının Kredi Kartı bilgilerini koruyacak ileri seviye, merkeziyetsiz bir güvenlik protokolüdür.
 <br><br>
 ## CC (Carbon Copy) Nedir?
 Öncelikle CC=Credit card, CC sahte kart anlamında değil yani Genelde çalıntı CC denir sosyal medyada. İnsanların Kart bilgilerinin botnetler, hacklemeler vb. çesitli illegal aktiviteler ile ele geçirilip parayla ya da bedava olarak bazı illegal siteler veya mekanlara paylaşılması veya satılması olayıdır.
